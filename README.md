@@ -10,6 +10,7 @@ Outside of software development, I enjoy cycling, cooking and playing guitar. I 
 - [MCProtocolLib](https://github.com/GeyserMC/MCProtocolLib) - A protocol library for Minecraft: Java Edition
 - [PhatLoots](https://github.com/Redned235/PhatLoots) - Highly customizable loot table plugin to modify mob and block drops on Spigot servers
 - [PwingRaces](https://github.com/Pwing-Minecraft/PwingRaces) - A plugin which allows for fully configurable class-like races such as Dwarves or Elves on Spigot servers
+- [SimCraft](https://github.com/Redned235/SimCraft) - A program that converts SimCity 4 (Deluxe) cities into Minecraft worlds. 
 
 ### :computer: Other Projects I've Contributed To
 - [Protocol](https://github.com/CloudburstMC/Protocol)
