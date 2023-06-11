@@ -30,6 +30,6 @@ Outside of software development, I enjoy cycling, cooking and playing guitar. I 
 <br>
  
 <div align="center">
-  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=Redned235&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
-  <img align="center" src="https://streak-stats.demolab.com/?user=redned235&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=Redned235&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&show_icons=true&text_color=ffffff&count_private=true&hide_title=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
+  <img align="center" src="https://streak-stats.demolab.com/?user=redned235&hide_border=true&theme=github-dark-blue"/>
 </div>
