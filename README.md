@@ -9,8 +9,8 @@ Outside of software development, I enjoy cycling, cooking and playing guitar. I 
 <br>
  
 <div class="flex-container" align="left">
-  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=Redned235&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
-  <img align="center" src="https://streak-stats.demolab.com/?user=redned235&hide_border=true"/>
+  <img align="center" width="45%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Redned235&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
+  <img align="center" width="45%" src="https://streak-stats.demolab.com/?user=redned235&hide_border=true"/>
 </div>
 
 ### :telescope: Current Projects
