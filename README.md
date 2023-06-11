@@ -1,9 +1,18 @@
 # Nice to meet you - I'm Red :wave:
 
 ### :question: About Me
-I am a software developer with a passion for Java. I'm a big open source advocate and spend much of my time working on the [GeyserMC](https://github.com/GeyserMC) project, which I created to solve Minecraft's biggest problem: crossplay. Most of what I do is in the Minecraft ecosystem - I also do backend protocol / platform-y stuff for [@teamziax](https://github.com/teamziax) :eyes:
+
+I am a software developer that specializes in Java. I'm an open source advocate and spend much of my time working on the [GeyserMC](https://github.com/GeyserMC) project, which I created to solve Minecraft's biggest problem: crossplay. Most of what I do is in the Minecraft ecosystem - I also do backend protocol / platform-y stuff for [@teamziax](https://github.com/teamziax) :eyes:
 
 Outside of software development, I enjoy cycling, cooking and playing guitar. I go by he/him pronouns.
+
+### 💹 Statistics 
+<div class="flex-container">
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=Redned235&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
+  <img align="center" src="https://streak-stats.demolab.com/?user=redned235&hide_border=true"/>
+</div>
+
+<br>
 
 ### :telescope: Current Projects
 - [Geyser](https://github.com/GeyserMC/Geyser) - A proxy that allows cross-compatibility between Minecraft: Java & Bedrock players
@@ -21,7 +30,7 @@ Outside of software development, I enjoy cycling, cooking and playing guitar. I 
 - [Nukkit](https://github.com/CloudburstMC/Nukkit)
 - _.. and many more over the years_
 
-### :mega: **Get in Touch:**
-- Discord: Redned#0001
+### :mega: **Get in Touch**
+- Discord: redned
 - Twitter: [Redned235](https://twitter.com/Redned235)
 - Email: redned235@gmail.com
